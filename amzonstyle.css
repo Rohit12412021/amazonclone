@@ -1,0 +1,428 @@
+
+*{
+   font-family: Arial, Helvetica, sans-serif;
+   margin: 0px;
+  padding: 0px;
+ 
+
+
+}
+.first{
+    height:85px;
+    width:6000px;
+     background-color:#0f1111;
+     display:flex;
+     text-align:center;
+     
+}
+.afirst{
+    background-image:url("Screenshot 2025-06-02 140541.png");
+    background-size:cover;
+    height:80px;
+    width:200px;
+   
+      
+}
+.afirst{
+    border:2px solid transparent;
+}
+.afirst:hover{
+    border:2px solid white;
+}
+.ro{
+    color:#CCCCCC;
+}
+.go{
+    color:#FFFFFF;
+    padding:0px 0px 0px 1px;
+    position:relative;
+    bottom:20px;
+    right:15px;
+    
+}
+.location{
+    height:70px;
+    width:88.64px;
+  
+  align-items: center;
+  position:relative;
+  top:10px;
+   padding-left: 10px;
+   padding-top: 10px;
+}
+.icon{
+   
+    padding-left:px;
+    color:white;
+    position:relative;
+    right:40px;
+    
+}
+.location{
+    border:2px solid transparent;
+}
+.location:hover{
+    border:2px solid white;
+}
+select.ab {
+      overflow-y: auto;
+      width:40px;
+      height:35px;
+      position:relative;
+      top:20px;
+      border:2px solid white;
+      
+      background-color: #FFFFFF;
+      color:#0F1111;
+    }
+select.ab{
+    border:2px solid transparent;
+}
+select.ab:hover{
+    border:2px solid rgb(41, 14, 14);
+}
+.tt{
+   
+      height:35px;
+  width:200px;
+      position:relative;
+      top:18px;
+       background-color: #FFFFFF;
+       padding-left:8px;
+       color:#0F1111;
+    border-radius:5%;
+}
+.prince{
+    height:37px;
+    width:39px;
+    color:white;
+      position:relative;
+      top:18px;
+      background-color:#c9a713;
+     
+      border-radius:7%;
+      display:flex;
+      align-items: center;
+      justify-content: center;
+      
+}
+
+.prince:hover{
+   background-color:rgb(201, 201, 42);
+}
+.hr{
+    color:white;
+}
+.huu{
+    font-size:12px;
+   position: relative;
+   right:22px;
+   
+}
+.hr{
+    position:relative;
+    top:16px;
+    left:10px;
+    border:2px solid transparent;
+    height:50px;
+}
+.hr:hover{
+    border:2px solid white;
+}
+.mohit{
+    color:white;
+    display:flex;
+    align-items:center;
+    padding-left:20px;
+}
+.har{
+    color:white;
+     display:flex;
+    align-items:center;
+    padding-left:5px;
+}
+#iii{
+    color:black;
+}
+.ram{
+    height:50px;
+  background-color: #162121;
+margin-top:0.12px ;
+
+}
+.you{
+    color:white;
+    display: flex;
+    align-items: center;
+    padding-top:15px;
+    padding-left:18px;
+    
+}
+.ji{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left:4px;
+}
+.oo{
+  height:18px;
+    padding-left:20px;
+    
+}
+.oo{
+    border:2px solid transparent;
+}
+.oo:hover{
+      border:2px solid white;
+}
+.santosh{
+  height:400px;
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/INSLGW/June25WRS/sd_pc_2x._CB793440700_.jpg");
+    background-size: cover;
+}
+.rakesh{
+    height:120px;
+    width:200px;
+    
+    position:relative;
+    top:350px;
+   background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img23/VG/Nanditha/BI/QC-4--1x._SY116_CB793233792_.jpg");
+   background-size:cover;
+   
+}
+
+.rakes{
+     height:120px;
+    width:200px;
+    margin-top: 45px;
+    position:relative;
+    top:350px;
+   background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img23/VG/Nanditha/BI/QC-1--1x._SY116_CB793233792_.jpg");
+   background-size:cover;
+   
+}
+.uuu{
+    font-size: 13px;;
+    padding-top: 120px;;
+}
+.rake{
+     height:120px;
+    width:200px;
+    margin-top: 45px;
+    position:relative;
+    top:350px;
+    background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img23/VG/Nanditha/BI/QC-3--1x._SY116_CB793233792_.jpg");
+    margin-left: 10px;
+}
+.wwe{
+    height:120px;
+    width:200px;
+     background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img23/VG/Nanditha/BI/QC-3--1x._SY116_CB793233792_.jpg");
+     position:relative;
+     left:210px;
+     bottom:50px;
+}
+.wwee{
+    height:120px;
+    width:200px;
+background-image: url("https://images-eu.ssl-images-amazon.com/images/G/31/img23/VG/Nanditha/BI/QC-6--1x._SY116_CB793243872_.jpg");
+position:relative;
+left:210px;
+ bottom:5px;
+}
+.kashi{
+   width:200px;
+  
+   
+    border:2px solid black;
+}
+.bhole{
+    height:400px;
+    width:430px;
+    position:relative;
+    bottom:350px;
+    border:2px solid rgb(232, 218, 218);
+    
+}
+.rou{
+    height:400px;
+    width:600px;
+    border: 2px solid rgb(233, 218, 218);
+    position:relative;
+    bottom:750px;
+    left:500px;
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.Qqk6rskkPS0bW0x1BgHTWgHaEK&pid=Api&P=0&h=180");
+    background-size: cover;
+    
+}
+.aaw{
+    padding-top: 400px;
+    padding-left: 20px;;
+}
+.duggu{
+    height:398px;
+    width:300px;
+    border:2px solid #c8a9a9;
+    position:relative;
+    bottom:1150px;
+    left:1170px;
+    background-image: url(https://img.freepik.com/premium-psd/sunflower-oil-bottle-mockup-set-v2_790202-134.jpg);
+    background-size:160%;
+    background-position: -90px;
+    
+}
+.rfr{
+    padding-top: 400px;
+    padding-left: 5px;
+}
+.nxt{
+    height:300px;
+    width:1520px;
+    
+    position:relative;
+    right:1172px;
+   top:20px;
+   background-image:url("Screenshot 2025-06-03 095201.png");
+   background-size: cover;
+}
+.nxxt{
+     height:300px;
+    width:1520px;
+    
+    position:relative;
+  bottom:750px;
+  
+   background-image:url("Screenshot 2025-06-03 100435.png");
+   background-size: cover;
+}
+.pati{
+    height:150px;
+    width:1520px;
+    border:2px solid rgb(231, 228, 228);
+  position:relative;
+  top:400px;
+  display:flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+.toto{
+    height:30px;
+    width:158.32px;
+    border-radius: 20px 20px 20px 20px;;
+    border:2px solid black;
+    position:relative;
+   background-color:#fdd009;
+    top:60px;
+right:350px;
+}
+.rinki{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5px;
+    
+}
+.toto:hover{
+    background-color: #c9a713;
+}
+.lolo{
+    padding-top: 12px;
+    font-size:12px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+}
+.lulu{
+    padding-left: 90px;
+    position:relative;
+    bottom:18px;
+    font-size:12px;
+}
+.mc{
+     height:50px;
+    width:1405px;
+    border:1px solid rgb(199, 186, 186);
+    position:relative;
+    top:50px;
+    
+    right:595px;
+    background-color: rgb(59, 38, 89);
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items:center
+}
+.mc:hover{
+    background-color: rgb(61, 61, 150);
+}
+.pari{
+    
+  height:400px;
+    width:2001px;
+    border:1px solid rgb(199, 186, 186);
+    position:relative;
+    bottom:365px;
+    
+    right:594px;
+    background-color: rgb(106, 61, 168);
+    color:white;
+  
+    
+ 
+}
+.lomu{
+    padding-left: 600px;
+    margin-top: 30px;
+   display: flex;
+   flex-direction: column;
+   gap:20px;
+  font-size: 16px;
+}
+.lomus{
+     padding-left: 800px;
+    
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+font-size: 13px;
+   gap:15px;
+   position: relative;
+   bottom:175px;
+}
+.lomusda{
+      padding-left: 1000px;
+    font-size: 13px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+
+   gap:15px;
+   position: relative;
+   bottom:335px;
+}
+.lommu{
+     padding-left:800px;
+    font-size: 13px;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+
+   gap:15px;
+   position: relative;
+   bottom:335px;
+}
+.lomuu{
+   position:relative;
+   bottom:773px;
+   left:660px;
+  color:white;
+  font-size:13px;
+  padding-top:33px;
+  display: flex;
+   flex-direction: column;
+   justify-content: space-evenly;
+   gap:15px;
+}
+.ass:hover{
+    text-decoration: underline;
+}
+html, body {
+  overflow-x: hidden;
+}
